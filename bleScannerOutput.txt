@@ -1,0 +1,176 @@
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: B0:34:95:4B:6E:F1, Name: None
+uuids: []
+manufacturer_data: {76: b'\t\x06\x03\x00\x00\x00\x00\x00'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 5F:E7:E9:31:B0:29, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06\x05\x19\x83)\x80\x08'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 58:D4:48:78:93:7D, Name: None
+uuids: []
+manufacturer_data: {76: b'\x16\x08\x00\xbce\x9fx\x1dd\x18'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 5D:28:E2:55:C7:D1, Name: None
+uuids: []
+manufacturer_data: {76: b'\t\x08\x13\xec\xc0\xa8\x02\xd1\x1bX'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: DA:2E:D6:62:7E:C5, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x00\x02'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 43:54:3B:87:14:80, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06\x05\x19\x83)\x80\x08'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 23:01:02:5E:18:7C, Name: BJ_LED_M
+uuids: ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+manufacturer_data: {}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 28:56:D1:3F:A5:5C, Name: None
+uuids: []
+manufacturer_data: {6: b'\x01\t "%5\x91\x14X\x8b%DtB\xfa\xc9\x11\xaeC\xaaz\xf1\x88qf\x0b\xb0'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: D4:D2:6C:88:52:A9, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x14\x00'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 4C:5B:B3:78:19:1D, Name: ResMed 178255
+uuids: ['0000fd56-0000-1000-8000-00805f9b34fb']
+manufacturer_data: {909: b'\x00'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 5B:76:AF:FF:C0:9D, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x05\t\x18\xd6\x9eE'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 66:CF:99:8B:33:51, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06-\x1e@\xc8Yb'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: 60:11:F5:05:E2:76, Name: None
+uuids: []
+manufacturer_data: {76: b'\x16\x08\x00\x82m\x9c\xb5\x13\xfd\xec'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: CC:29:7F:08:A3:AA, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x00\x03'}
+
+Timestamp: 2024-03-13 17:09:47, Packet Type: BLE, Sending Address: F7:31:0F:3A:B9:DF, Name: None
+uuids: ['00001533-1412-efde-1523-785feabcd123']
+manufacturer_data: {}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 7E:9F:28:52:A4:2F, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x069\x1egy\x1fw'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: CC:29:7F:08:A3:AA, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x00\x03'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 58:D4:48:78:93:7D, Name: None
+uuids: []
+manufacturer_data: {76: b'\x16\x08\x00\xbce\x9fx\x1dd\x18'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: B0:34:95:4B:6E:F1, Name: None
+uuids: []
+manufacturer_data: {76: b'\t\x06\x03\x00\x00\x00\x00\x00'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: DA:2E:D6:62:7E:C5, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x00\x02'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 66:CF:99:8B:33:51, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06-\x1e@\xc8Yb'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 28:56:D1:3F:A5:5C, Name: None
+uuids: []
+manufacturer_data: {6: b'\x01\t "%5\x91\x14X\x8b%DtB\xfa\xc9\x11\xaeC\xaaz\xf1\x88qf\x0b\xb0'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 43:54:3B:87:14:80, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06\x05\x19\x83)\x80\x08'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: F7:31:0F:3A:B9:DF, Name: I_TL
+uuids: ['00001533-1412-efde-1523-785feabcd123']
+manufacturer_data: {421: b'\x02\xcc\xf9\x80\x00\x04\xdd\xbfK'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 5D:28:E2:55:C7:D1, Name: None
+uuids: []
+manufacturer_data: {76: b'\t\x08\x13\xec\xc0\xa8\x02\xd1\x1bX'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 5F:E7:E9:31:B0:29, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06\x05\x19\x83)\x80\x08'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 23:01:02:5E:18:7C, Name: BJ_LED_M
+uuids: ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+manufacturer_data: {}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: 5B:76:AF:FF:C0:9D, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x05\t\x18\xd6\x9eE'}
+
+Timestamp: 2024-03-13 17:09:57, Packet Type: BLE, Sending Address: E1:1D:3E:0A:8B:62, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x00\x02'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 43:54:3B:87:14:80, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06\x05\x19\x83)\x80\x08'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 5B:76:AF:FF:C0:9D, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x05\t\x18\xd6\x9eE'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: CC:29:7F:08:A3:AA, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x00\x03'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 28:56:D1:3F:A5:5C, Name: None
+uuids: []
+manufacturer_data: {6: b'\x01\t "%5\x91\x14X\x8b%DtB\xfa\xc9\x11\xaeC\xaaz\xf1\x88qf\x0b\xb0'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 4C:5B:B3:78:19:1D, Name: ResMed 178255
+uuids: ['0000fd56-0000-1000-8000-00805f9b34fb']
+manufacturer_data: {909: b'\x00'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 7E:9F:28:52:A4:2F, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x069\x1egy\x1fw'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 5D:28:E2:55:C7:D1, Name: None
+uuids: []
+manufacturer_data: {76: b'\t\x08\x13\xec\xc0\xa8\x02\xd1\x1bX'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: D4:D2:6C:88:52:A9, Name: None
+uuids: []
+manufacturer_data: {76: b'\x12\x02\x14\x00'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 5F:E7:E9:31:B0:29, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06\x05\x19\x83)\x80\x08'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 23:01:02:5E:18:7C, Name: BJ_LED_M
+uuids: ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+manufacturer_data: {}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 66:CF:99:8B:33:51, Name: None
+uuids: []
+manufacturer_data: {76: b'\x10\x06-\x1e@\xc8Yb'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: F7:31:0F:3A:B9:DF, Name: I_TL
+uuids: ['00001533-1412-efde-1523-785feabcd123']
+manufacturer_data: {421: b'\x02\xcc\xf9\x80\x00\x04\xdd\xbfK'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: B0:34:95:4B:6E:F1, Name: None
+uuids: []
+manufacturer_data: {76: b'\t\x06\x03\x00\x00\x00\x00\x00'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 58:D4:48:78:93:7D, Name: None
+uuids: []
+manufacturer_data: {76: b'\x16\x08\x00\xbce\x9fx\x1dd\x18'}
+
+Timestamp: 2024-03-13 17:10:07, Packet Type: BLE, Sending Address: 75:55:74:69:84:B8, Name: None
+uuids: ['0000fef3-0000-1000-8000-00805f9b34fb']
+manufacturer_data: {}
+
