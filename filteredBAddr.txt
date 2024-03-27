@@ -1,0 +1,320 @@
+
+Timestamp: 2024-03-26 19:26:55 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:27:00 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:27:05 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -65
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:27:10 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:27:15 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -67
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:31:02 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -66
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:31:07 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -62
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:31:12 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -62
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:31:17 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:31:22 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:32:01 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:32:06 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -65
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:32:11 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -62
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:32:16 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:32:21 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet  size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:41:18 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -62
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:41:23 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -65
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:41:28 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:41:33 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:41:38 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -65
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:42:24 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:42:29 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:42:34 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:42:39 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:42:44 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:47:11 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:47:16 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:47:21 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:47:26 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -63
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 19:47:31 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -62
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:00:46 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -60
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:00:51 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:00:56 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:01:01 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -61
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:01:06 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -60
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:01:11 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -65
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:01:16 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -60
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:01:21 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -60
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:01:26 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -61
+ Adv. Packet size: 40 bytes
+~~~
+Timestamp: 2024-03-26 20:01:31 
+ Device Name: BJ_LED_M
+ Device Address: 23:01:02:5E:18:7C
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb']
+ RSSI -64
+ Adv. Packet size: 40 bytes
