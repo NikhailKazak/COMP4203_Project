@@ -1,64 +1,8 @@
 
-Timestamp: 2024-03-27 17:44:40 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -83
- Adv. Packet size: 30 bytes
-~~~
-Timestamp: 2024-03-27 17:44:45 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -87
- Adv. Packet size: 30 bytes
-~~~
-Timestamp: 2024-03-27 17:44:55 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -83
- Adv. Packet size: 30 bytes
-~~~
-Timestamp: 2024-03-27 17:45:00 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -89
- Adv. Packet size: 30 bytes
-~~~
-Timestamp: 2024-03-27 17:45:05 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -84
- Adv. Packet size: 30 bytes
-~~~
-Timestamp: 2024-03-27 17:45:10 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -89
- Adv. Packet size: 30 bytes
-~~~
-Timestamp: 2024-03-27 17:45:20 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -84
- Adv. Packet size: 30 bytes
-~~~
-Timestamp: 2024-03-27 17:45:25 
- Device Name: ResMed 178255
- Device Address: 4C:5B:B3:78:19:1D
- Manufacturer data {909: b'\x00'}
- Service UUIDs ['0000fd56-0000-1000-8000-00805f9b34fb']
- RSSI -84
- Adv. Packet size: 30 bytes
+Timestamp: 2024-03-30 15:24:23 
+ Device Name: NVIDIA SHIELD Remote
+ Device Address: 00:04:4B:F9:01:DB
+ Manufacturer data {}
+ Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb', '0000180a-0000-1000-8000-00805f9b34fb']
+ RSSI -59
+ Adv. Packet size: 68 bytes
