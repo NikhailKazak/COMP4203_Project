@@ -1,8 +1,0 @@
-
-Timestamp: 2024-03-30 15:24:23 
- Device Name: NVIDIA SHIELD Remote
- Device Address: 00:04:4B:F9:01:DB
- Manufacturer data {}
- Service UUIDs ['00001812-0000-1000-8000-00805f9b34fb', '0000180f-0000-1000-8000-00805f9b34fb', '0000180a-0000-1000-8000-00805f9b34fb']
- RSSI -59
- Adv. Packet size: 68 bytes
